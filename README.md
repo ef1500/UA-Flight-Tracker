@@ -13,7 +13,7 @@ optional arguments:
                         Flight Number
   -d DATE, --date DATE  Flight Data (YYYY-MM-DD)
   -e EXPORT, --export EXPORT
-                        Exported the formatted data to a file
+                        Export the formatted data to a file
 ```
 ### Basic Usage
 ##### Track a flight
