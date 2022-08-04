@@ -28,8 +28,10 @@ optional arguments:
 
 `python3 uflight.py -f 380 -e flightdata.txt`
 
-### Example Output
+### Example Use
 ```
+> python3 uflight.py -f 2275
+
 UNITED FLIGHT 2275
     AIRCRAFT INFORMATION:
         Cabin Count: 2
